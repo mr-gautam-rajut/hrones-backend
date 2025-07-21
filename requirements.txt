@@ -2,3 +2,5 @@ fastapi
 motor
 uvicorn
 python-decouple
+python-dotenv  ✅  <-- ADD THIS
+
